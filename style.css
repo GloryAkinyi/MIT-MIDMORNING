@@ -1,0 +1,42 @@
+.myheading{
+    color: blue;
+    font-size: 40px;
+    background-color: #080e02;
+}
+#three{
+    color: #f10b20;
+}
+.two{
+    color: green;
+}
+.four{
+    color: #80006f;
+}
+.first{
+    background-color: burlywood;
+    padding-top: 30px;
+    padding-left: 50px;
+    padding-bottom: 30px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.test{
+    display: flex;
+    background-color: lightgray;
+    padding: 20px;
+}
+.paragraph1{
+    margin-left: 40px;
+}
+.main{
+    display: flex;
+}
+.paragraph2{
+    background-color: #f10b20;
+}
+.paragraph3{
+    background-color: #608c0a;
+}
+.paragraph4{
+    background-color: #2a0bf1;
+}
